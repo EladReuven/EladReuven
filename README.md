@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EladReuven
-- 👀 I’m interested in ... Video Games and their developement and design
+- 👀 I’m interested in ... Video Games developement and design
 - 🌱 I’m currently learning ...Video game development in Unity
 - 💞️ I’m looking to collaborate on ...GameJams 
 - 📫 How to reach me ...
